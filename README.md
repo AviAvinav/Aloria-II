@@ -1,5 +1,4 @@
 # Aloria-II
-Lexer made
-A programming language created by me.
-
+<p>A programming language created by me.</p>
+<p>Update #1: Lexer made</p>
 <b>Work in Progress</b>
